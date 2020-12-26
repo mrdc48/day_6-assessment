@@ -2,8 +2,7 @@
 
 ### language = > JavaScript
 
-### First question =>
-```
+* First question =>
 For (i=1; I<=n; I++){
 Console.log("hi");
 }
@@ -13,14 +12,14 @@ Ans => 'O(n)' => linear time complexity.
 So this is the linear time complexity where the value of n it depends upon the number of inputs given by the user.
 
 
-### Second Question => 
-```
+* Second Question => 
+
 For (i=1; I<=n; I*=3){
  For (j=1; j<=n; j++){
    Console.log("hi");
  }
 }
-‘’’
+
 Ans = 'O(n<sup>2</sup>) ' => quadratic time complexity
 We are using the two loops that's why the value of n gets incremented twice.
 
